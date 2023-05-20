@@ -37,7 +37,7 @@ def main():
     # st.write("E sari centerfresh ichinappudu anna anna inkokkati anna ani adagakunda anna anna voddanna ani anu 😉")
     st.write("- MIG Talks 🛫")
     
-    st.write("Too much emotion... Kasepu aadukundam dha")
+    st.write("Too much emotional? Kasepu aadukundam dha")
 
     image_file = "4.png"  # Replace with the path to your image file
     # button_clicked2 = st.button("Click this button to learn new word")
@@ -49,7 +49,7 @@ def main():
     #     st.write("New word1 Vellillu")
     #     st.write("word usage Vallu momos thineki vellillu")
     #     st.write("New word2 Sadrukunnava")
-    #     st.write("word usage Luggages Sadrukunnava")
+    #     st.write("word usage Luggages sadrukunnava")
     #     button_clicked1 = st.button("Click this button to get IIM-A/B/C/L")
     #     if button_clicked1:
     #         # Display the picture when the button is clicked
