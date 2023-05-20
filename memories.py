@@ -77,7 +77,7 @@ def main():
                 st.write("New word1: **Vellillu**")
                 st.write("- word usage: Vallu momos thineki vellillu")
                 st.write("New word2: **Sadrukunnava**")
-                st.write("- word usage: Luggages Sadrukunnava")
+                st.write("- word usage: Luggages sadrukunnava")
         if button_label == button_list[2]:
             if st.button(button_label):
                 col1, col2, col3 = st.columns(3)
